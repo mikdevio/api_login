@@ -1,0 +1,11 @@
+### GET api/
+GET http://localhost:4500/api
+
+### POST user/login
+POST http://localhost:4500/user/login
+
+### POST user/register
+POST http://localhost:4500/user/register
+
+### GET user/logout
+GET http://localhost:4500/user/logout
